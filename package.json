@@ -1,18 +1,18 @@
 {
   "name": "random-name",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/dominictarr/random-name",
   "repository": {
     "type": "git",
     "url": "git://github.com/dominictarr/random-name.git"
   },
   "devDependencies": {
-    "JSONStream" : "0.4.2",
+    "JSONStream": "0.4.2",
     "event-stream": "3.0.2"
   },
   "scripts": {
     "test": "tap test"
   },
   "author": "'Dominic Tarr' <dominic.tarr@gmail.com> (http://dominictarr.com)",
-  "license": "MIT"  
+  "license": "MIT"
 }
